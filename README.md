@@ -2,24 +2,26 @@
 
 (UN HOLA MUNDO POCO COMUN) 
 
-Instrucciones
-
 Este proyecto está escrito como Tcl, un lenguaje de programación poco común pero que aún se usa.
 Su tarea es escribir un programa que tome un nombre como entrada, luego imprima la frase "Hola <nombre>".
 
 
 (EL JUGUETE MAS SIMPLE)
 
-Instrucciones
-
 Escriba un programa que reciba las siguientes entradas:
 
 nombre
+  
 nombre del rol
+  
 primer adjetivo
+  
 segundo adjetivo
+  
 primera comida
+  
 segunda comida
+  
 un sentimiento
 
 Y luego imprime la siguiente Mad Lib, reemplazando las palabras entre llaves de flecha (<>) con las entradas del usuario:
