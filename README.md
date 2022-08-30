@@ -1,13 +1,17 @@
 # Junior-Unity-Developer---Colombia---Recruitment
 
 (UN HOLA MUNDO POCO COMUN) 
+
 Instrucciones
+
 Este proyecto está escrito como Tcl, un lenguaje de programación poco común pero que aún se usa.
 Su tarea es escribir un programa que tome un nombre como entrada, luego imprima la frase "Hola <nombre>".
 
 
 (EL JUGUETE MAS SIMPLE)
+
 Instrucciones
+
 Escriba un programa que reciba las siguientes entradas:
 
 nombre
