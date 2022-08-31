@@ -1,0 +1,14 @@
+def dispense_fibonnaci(n):
+  a = 0
+  b = 1
+  accu = 0
+  array = [0,1]
+
+  while accu <= n:
+    c = a+b
+    a = b
+    b = c
+    array.append(b)
+    accu += 1
+    
+  return array[n]
