@@ -33,6 +33,7 @@ Sienten <un sentimiento> pero están decididos a completar el bootcamp.
   
 
 (DISPENSADOR DE FIBONACI)
+  
 La secuencia de fibonnaci es una secuencia de números que se incrementan por la suma de los dos números anteriores en la secuencia, con la excepción de los dos primeros números '0' y '1'. Entonces, el tercer número sería 0 + 1 o 1, el cuarto número sería 1 + 1 (2), el quinto (3 o 1 + 2).
 
 En este proyecto encontrarás una función en blanco, dispense_fibonnaci(). No cambies el nombre de esta función. Esta función debe tomar un número entero entre 0 y 99 y devolver el número de fibonnaci en ese punto de la secuencia. Todos los valores devueltos también deben ser números enteros.
