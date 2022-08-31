@@ -6,7 +6,7 @@ Este proyecto está escrito como Tcl, un lenguaje de programación poco común p
 Su tarea es escribir un programa que tome un nombre como entrada, luego imprima la frase "Hola <nombre>".
 
 
-
+_________________________________________________________________________________________________________
 (EL JUGUETE MAS SIMPLE)
 
 Escriba un programa que reciba las siguientes entradas:
@@ -33,7 +33,7 @@ Para el almuerzo comieron <primera comida> y <segunda comida> mientras revisaban
 Sienten <un sentimiento> pero están decididos a completar el bootcamp.
   
 
-
+___________________________________________________________________________________________________________________________
 (DISPENSADOR DE FIBONACCI)
   
 La secuencia de fibonnaci es una secuencia de números que se incrementan por la suma de los dos números anteriores en la secuencia, con la excepción de los dos primeros números '0' y '1'. Entonces, el tercer número sería 0 + 1 o 1, el cuarto número sería 1 + 1 (2), el quinto (3 o 1 + 2).
